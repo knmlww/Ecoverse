@@ -15,8 +15,7 @@
 ### 자료 조사
 - [자료조사 - 토양관](https://github.com/leehe228/Ecoverse/blob/main/docs/investigation_1.md)
 - [체험영상관 - 토양관](https://github.com/leehe228/Ecoverse/blob/main/docs/experience_1.md)
-- [자료조사 - 신재생에너지관]()
-- [체험영상관 - 신재생에너지관]()
+- [자료조사 - 신재생에너지관](https://github.com/leehe228/Ecoverse/blob/main/docs/investigation_2.md)
 
 ### 포트폴리오 영상
 - [시나리오 - 1차]()
@@ -35,7 +34,7 @@
 ### 본선 발표 준비
 -[본선 발표 준비 자료]()
 
-<br> <br>
+<br>
 
 ## Team
 - **이호은** (건국대학교(서울), 개발자 및 팀장) <br>
@@ -44,7 +43,8 @@
 - **김서영** (숙명여자대학교, 2D 디자이너) <br> 
 - **신지수** (한동대학교, 3D 오브젝트 디자이너) <br>
 - **임효린** (중앙대학교, 2D 디자인 및 영상 에디터) 
-<br> <br> 
+- 
+<br>  
 
 ## Software Introduction
 
