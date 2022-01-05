@@ -13,8 +13,10 @@
 - [서버 DB Scheme Design Specification](https://github.com/leehe228/Ecoverse/blob/main/docs/server_scheme.md)
 
 ### 자료 조사
-- [자료조사 - 토양관]()
+- [자료조사 - 토양관](https://github.com/leehe228/Ecoverse/blob/main/docs/investigation_1.md)
+- [체험영상관 - 토양관](https://github.com/leehe228/Ecoverse/blob/main/docs/experience_1.md)
 - [자료조사 - 신재생에너지관]()
+- [체험영상관 - 신재생에너지관]()
 
 ### 포트폴리오 영상
 - [시나리오 - 1차]()
