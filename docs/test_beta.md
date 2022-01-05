@@ -1,5 +1,8 @@
 # Beta Testing - Android
 
+![](https://user-images.githubusercontent.com/37548919/148240064-d99b8c47-96a9-45e3-a8eb-43244ac54f4c.png)
+
+
 ## 수정 제안
 
 - 화면 - Landscape Only Mode로 설정 (호은)
