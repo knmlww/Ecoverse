@@ -1,5 +1,14 @@
 # Ecoverse
-환경 인식을 키울 수 있게 도와주는 교육용 메타버스 '에코버스' - KBSC 2021 대상 수상작
+**환경 인식을 키울 수 있게 도와주는 교육용 메타버스 '에코버스'** <br> <br>
+
+### KB국민은행 소프트웨어 경진대회 (KBSC) 2021 대상 수상작
+![](https://user-images.githubusercontent.com/37548919/148187231-2be7eaac-6215-4164-900e-ce75ece65381.PNG) <br> <br>
+
+### Documentations
+![doc1](https://github.com/leehe228/Ecoverse)
+
+
+### Software Introduction
 
 ![0001](https://user-images.githubusercontent.com/37548919/148185999-8467bbd1-daee-4350-8e48-648a54cd66c4.jpg)
 
