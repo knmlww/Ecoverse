@@ -1,10 +1,10 @@
 # Ecoverse
-**환경 인식을 키울 수 있게 도와주는 교육용 메타버스 '에코버스'** <br> <br>
+**환경 인식을 키울 수 있게 도와주는 교육용 메타버스 '에코버스'** <br> 
 
-### KB국민은행 소프트웨어 경진대회 (KBSC) 2021 대상 수상작
-![](https://user-images.githubusercontent.com/37548919/148187231-2be7eaac-6215-4164-900e-ce75ece65381.PNG) <br> <br>
+### [KB국민은행 소프트웨어 경진대회 (KBSC) 2021 대상 수상작](https://www.kbsccoding.com/board/board.php?bo_table=notice&wr_id=67)
+<br> <br>
 
-### Documentations
+## Documentations
 ![doc1](https://github.com/leehe228/Ecoverse)
 
 <br> <br>
@@ -15,9 +15,10 @@
 **채지영** (숙명여자대학교, 기획자) <br>
 **김서영** (숙명여자대학교, 2D 디자이너) <br> 
 **신지수** (한동대학교, 3D 오브젝트 디자이너) <br>
-**임효린** (중앙대학교, 2D 디자인 및 영상 에디터) <br> <br> 
+**임효린** (중앙대학교, 2D 디자인 및 영상 에디터) 
+<br> <br> 
 
-### Software Introduction
+## Software Introduction
 
 ![0001](https://user-images.githubusercontent.com/37548919/148185999-8467bbd1-daee-4350-8e48-648a54cd66c4.jpg)
 
