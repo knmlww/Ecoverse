@@ -1,13 +1,37 @@
+### [KB국민은행 소프트웨어 경진대회 (KBSC) 2021 대상 수상작](https://www.kbsccoding.com/board/board.php?bo_table=notice&wr_id=67)
+<br>
+
 # Ecoverse
 **환경 인식을 키울 수 있게 도와주는 교육용 메타버스 '에코버스'** <br> 
 
-### [KB국민은행 소프트웨어 경진대회 (KBSC) 2021 대상 수상작](https://www.kbsccoding.com/board/board.php?bo_table=notice&wr_id=67)
-<br> <br>
+<br>
 
 ## Documentations
+### 기획 및 디자인
 - [1차 소프트웨어 기획서](https://github.com/leehe228/Ecoverse/blob/main/docs/sw_intro_1.md)
 - [미션 및 아이템 Alanysis](https://github.com/leehe228/Ecoverse/blob/main/docs/item_mission_analysis.md)
 - [서버 DB Scheme Design Specification](https://github.com/leehe228/Ecoverse/blob/main/docs/server_scheme.md)
+
+### 자료 조사
+- [자료조사 - 토양관]()
+- [자료조사 - 신재생에너지관]()
+
+### 포트폴리오 영상
+- [시나리오 - 1차]()
+- [시나리오 - 2차]()
+
+### Requirements Specification
+- [SRS - 토양관]()
+- [SRS - 신재생에너지관]()
+- [SRS - 에코아일랜드]()
+
+### Testing
+- [유닛 테스팅]()
+- [알파 테스팅]()
+- [베타 테스팅]()
+
+### 본선 발표 준비
+-[본선 발표 준비 자료]()
 
 <br> <br>
 
