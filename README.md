@@ -18,21 +18,21 @@
 - [자료조사 - 신재생에너지관](https://github.com/leehe228/Ecoverse/blob/main/docs/investigation_2.md)
 
 ### 포트폴리오 영상
-- [시나리오 - 1차]()
-- [시나리오 - 2차]()
+- [시나리오 - 1차](https://github.com/leehe228/Ecoverse/blob/main/docs/scenario_1.md)
+- [시나리오 - 2차](https://github.com/leehe228/Ecoverse/blob/main/docs/scenario_2.md)
 
 ### Requirements Specification
-- [SRS - 토양관]()
-- [SRS - 신재생에너지관]()
-- [SRS - 에코아일랜드]()
+- [SRS - 토양관](https://github.com/leehe228/Ecoverse/blob/main/docs/srs_1.md)
+- [SRS - 신재생에너지관](https://github.com/leehe228/Ecoverse/blob/main/docs/srs_2.md)
+- [SRS - 에코아일랜드](https://github.com/leehe228/Ecoverse/blob/main/docs/srs_island.md)
 
 ### Testing
-- [유닛 테스팅]()
-- [알파 테스팅]()
-- [베타 테스팅]()
+- [유닛 테스팅](https://github.com/leehe228/Ecoverse/blob/main/docs/test_unit.md)
+- [알파 테스팅](https://github.com/leehe228/Ecoverse/blob/main/docs/test_alpha.md)
+- [베타 테스팅](https://github.com/leehe228/Ecoverse/blob/main/docs/test_beta.md)
 
 ### 본선 발표 준비
--[본선 발표 준비 자료]()
+-[본선 발표 준비 자료](https://github.com/leehe228/Ecoverse/blob/main/docs/presentation_scenario.md)
 
 <br>
 
