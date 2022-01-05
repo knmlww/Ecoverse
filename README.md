@@ -6,6 +6,8 @@
 
 ## Documentations
 - [1차 소프트웨어 기획서](https://github.com/leehe228/Ecoverse/blob/main/docs/sw_intro_1.md)
+- [미션 및 아이템 Alanysis](https://github.com/leehe228/Ecoverse/blob/main/docs/item_mission_analysis.md)
+- [서버 DB Scheme Design Specification](https://github.com/leehe228/Ecoverse/blob/main/docs/server_scheme.md)
 
 <br> <br>
 
