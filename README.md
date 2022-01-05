@@ -2,7 +2,8 @@
 <br>
 
 # Ecoverse
-**환경 인식을 키울 수 있게 도와주는 교육용 메타버스 '에코버스'** <br> 
+**환경 인식을 키울 수 있게 도와주는 교육용 메타버스 '에코버스'** 
+![ecoverse_title](https://user-images.githubusercontent.com/37548919/148239355-75f4d121-00a2-43dd-8bf1-7ffbe02b6900.png)
 
 <br>
 
@@ -18,6 +19,7 @@
 - [자료조사 - 신재생에너지관](https://github.com/leehe228/Ecoverse/blob/main/docs/investigation_2.md)
 
 ### 포트폴리오 영상
+**[포트폴리오 영상 (YouTube)](https://youtu.be/DCxjsRZ8XHw)**
 - [시나리오 - 1차](https://github.com/leehe228/Ecoverse/blob/main/docs/scenario_1.md)
 - [시나리오 - 2차](https://github.com/leehe228/Ecoverse/blob/main/docs/scenario_2.md)
 
