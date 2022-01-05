@@ -32,7 +32,7 @@
 - [베타 테스팅](https://github.com/leehe228/Ecoverse/blob/main/docs/test_beta.md)
 
 ### 본선 발표 준비
--[본선 발표 준비 자료](https://github.com/leehe228/Ecoverse/blob/main/docs/presentation_scenario.md)
+- [본선 발표 준비 자료](https://github.com/leehe228/Ecoverse/blob/main/docs/presentation_scenario.md)
 
 <br>
 
